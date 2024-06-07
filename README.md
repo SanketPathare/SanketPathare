@@ -13,7 +13,7 @@
 
 
 ### <img src="https://itsvg.in/logo.png" width="16px" />  Portfolio 
-[Vishwa Gaurav - Portfolio](https://itsvg.in) ,
+[Sanket Pathare- Portfolio](https://protfolio-vert.vercel.app/) ,
 </> and Crafted with 💛 by Sanket Pathare
 
 ## Tech Stack 💻
