@@ -16,11 +16,6 @@
 [Vishwa Gaurav - Portfolio](https://itsvg.in) ,
 </> and Crafted with 💛 by Vishwa Gaurav
 
-
-<p align="right">
-.. working on few more projects 😉 </p>
-
-
 ## Tech Stack 💻
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
