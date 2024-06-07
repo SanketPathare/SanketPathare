@@ -84,7 +84,7 @@ if (codeWorking){
                 codeQuality++;
             }
         }
-// - Vishwa Gaurav
+// - Sanket Pathare
 ```
 
 <!--
