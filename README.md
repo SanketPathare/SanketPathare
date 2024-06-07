@@ -3,10 +3,10 @@
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
-
- <a href="https://itsvg.in" target="_blank"><img alt="" src="https://protfolio-vert.vercel.app/" style="vertical-align:center" /></a>
+<a href="https://itsvg.in" target="_blank"><img alt="" src="https://protfolio-vert.vercel.app/" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/sanket-pathare-740703245/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.instagram.com/sanketpathare_8808" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+<a href="https://www.instagram.com/sanketpathare_8808" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+/p>
 
 ## Creation 👨‍💻
 
