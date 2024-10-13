@@ -28,8 +28,7 @@
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
-![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
-![Svelte](https://img.shields.io/badge/-svelte-000?style=for-the-badge&logo=svelte&logoColor=orange)
+
 
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
