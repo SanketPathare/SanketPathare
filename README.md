@@ -10,8 +10,8 @@
 ## Creation 👨‍💻
 
 
-###    Portfolio 
-[Sanket Pathare- Portfolio]([https://protfolio-vert.vercel.app/](https://portfolio-sanket-pathare.vercel.app/)) ,
+###   ###   Portfolio 
+[Sanket Pathare- Portfolio](https://portfolio-sanket-pathare.vercel.app/) ,
 </> and Crafted with 💛 by Sanket Pathare
 
 ## Tech Stack 💻
