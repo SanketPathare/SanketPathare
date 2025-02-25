@@ -10,7 +10,7 @@
 ## Creation 👨‍💻
 
 
-### <img src="https://itsvg.in/logo.png" width="16px" />  Portfolio 
+###    Portfolio 
 [Sanket Pathare- Portfolio](https://protfolio-vert.vercel.app/) ,
 </> and Crafted with 💛 by Sanket Pathare
 
