@@ -11,7 +11,7 @@
 
 
 ###    Portfolio 
-[Sanket Pathare- Portfolio](https://protfolio-vert.vercel.app/) ,
+[Sanket Pathare- Portfolio]([https://protfolio-vert.vercel.app/](https://portfolio-sanket-pathare.vercel.app/)) ,
 </> and Crafted with 💛 by Sanket Pathare
 
 ## Tech Stack 💻
